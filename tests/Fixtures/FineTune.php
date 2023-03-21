@@ -33,7 +33,7 @@ function fineTuneResource(): array
         ],
         'training_files' => [
             fileResource(),
-            fileWithErrorStatusResource(),
+            fileResource(),
         ],
         'updated_at' => 1614807865,
     ];
